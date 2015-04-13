@@ -130,3 +130,5 @@ D:\2,1\C# project\APL\sleepingCar\sleepingCar\obj\x86\Debug\sleepingCar.Properti
 D:\2,1\C# project\APL\sleepingCar\sleepingCar\obj\x86\Debug\sleepingCar.csproj.GenerateResource.Cache
 D:\2,1\C# project\APL\sleepingCar2\sleepingCar\obj\x86\Debug\sleepingCar.exe
 D:\2,1\C# project\APL\sleepingCar2\sleepingCar\obj\x86\Debug\sleepingCar.pdb
+D:\2,1\C# project\APL\lab\sleepingCar2\sleepingCar\obj\x86\Debug\sleepingCar.exe
+D:\2,1\C# project\APL\lab\sleepingCar2\sleepingCar\obj\x86\Debug\sleepingCar.pdb
