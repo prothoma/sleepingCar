@@ -1,0 +1,72 @@
+F:\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\sleepingCar\BO\bin\Debug\BO.dll
+F:\sleepingCar\BO\bin\Debug\BO.pdb
+F:\sleepingCar\BO\bin\Debug\DAL.dll
+F:\sleepingCar\BO\bin\Debug\Entity.dll
+F:\sleepingCar\BO\bin\Debug\DAL.pdb
+F:\sleepingCar\BO\bin\Debug\Entity.pdb
+F:\sleepingCar\BO\obj\Debug\BO.dll
+F:\sleepingCar\BO\obj\Debug\BO.pdb
+F:\_apl\meaw0210\sleepingCar\BO\bin\Debug\BO.dll
+F:\_apl\meaw0210\sleepingCar\BO\bin\Debug\BO.pdb
+F:\_apl\meaw0210\sleepingCar\BO\bin\Debug\DAL.dll
+F:\_apl\meaw0210\sleepingCar\BO\bin\Debug\Entity.dll
+F:\_apl\meaw0210\sleepingCar\BO\bin\Debug\DAL.pdb
+F:\_apl\meaw0210\sleepingCar\BO\bin\Debug\Entity.pdb
+F:\_apl\meaw0210\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\_apl\meaw0210\sleepingCar\BO\obj\Debug\BO.dll
+F:\_apl\meaw0210\sleepingCar\BO\obj\Debug\BO.pdb
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\bin\Debug\BO.dll
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\bin\Debug\BO.pdb
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\obj\Debug\BO.dll
+C:\Users\ASUS\Desktop\meaw0210\sleepingCar\BO\obj\Debug\BO.pdb
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\bin\Debug\BO.dll
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\bin\Debug\BO.pdb
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\bin\Debug\DAL.dll
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\bin\Debug\Entity.dll
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\bin\Debug\DAL.pdb
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\bin\Debug\Entity.pdb
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\obj\Debug\BO.dll
+D:\Cse 2-1 term\meaw0210\sleepingCar\BO\obj\Debug\BO.pdb
+C:\Users\ahsan\Desktop\sleepingCar\BO\bin\Debug\BO.dll
+C:\Users\ahsan\Desktop\sleepingCar\BO\bin\Debug\BO.pdb
+C:\Users\ahsan\Desktop\sleepingCar\BO\bin\Debug\DAL.dll
+C:\Users\ahsan\Desktop\sleepingCar\BO\bin\Debug\Entity.dll
+C:\Users\ahsan\Desktop\sleepingCar\BO\bin\Debug\DAL.pdb
+C:\Users\ahsan\Desktop\sleepingCar\BO\bin\Debug\Entity.pdb
+C:\Users\ahsan\Desktop\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\ahsan\Desktop\sleepingCar\BO\obj\Debug\BO.dll
+C:\Users\ahsan\Desktop\sleepingCar\BO\obj\Debug\BO.pdb
+K:\sleepingCar\BO\bin\Debug\BO.dll
+K:\sleepingCar\BO\bin\Debug\BO.pdb
+K:\sleepingCar\BO\bin\Debug\DAL.dll
+K:\sleepingCar\BO\bin\Debug\Entity.dll
+K:\sleepingCar\BO\bin\Debug\DAL.pdb
+K:\sleepingCar\BO\bin\Debug\Entity.pdb
+K:\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+K:\sleepingCar\BO\obj\Debug\BO.dll
+K:\sleepingCar\BO\obj\Debug\BO.pdb
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\bin\Debug\BO.dll
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\bin\Debug\BO.pdb
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\bin\Debug\DAL.dll
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\bin\Debug\Entity.dll
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\bin\Debug\DAL.pdb
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\bin\Debug\Entity.pdb
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\obj\Debug\BO.dll
+C:\Users\Acer Pc\Desktop\sleepingCar\BO\obj\Debug\BO.pdb
+D:\2,1\C# project\APL\sleepingCar\BO\bin\Debug\BO.dll
+D:\2,1\C# project\APL\sleepingCar\BO\bin\Debug\BO.pdb
+D:\2,1\C# project\APL\sleepingCar\BO\bin\Debug\DAL.dll
+D:\2,1\C# project\APL\sleepingCar\BO\bin\Debug\Entity.dll
+D:\2,1\C# project\APL\sleepingCar\BO\bin\Debug\DAL.pdb
+D:\2,1\C# project\APL\sleepingCar\BO\bin\Debug\Entity.pdb
+D:\2,1\C# project\APL\sleepingCar\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\APL\sleepingCar\BO\obj\Debug\BO.dll
+D:\2,1\C# project\APL\sleepingCar\BO\obj\Debug\BO.pdb
